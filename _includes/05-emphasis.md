@@ -1,1 +1,1 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+My favourite thing to do these days is _programming._ It is easily my favourite pass time. I love to code in **JavaScript PHP and *Vue.js***
